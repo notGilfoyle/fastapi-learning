@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment (uv manages this; we don't commit it)
+.venv/
+
+# Env files / secrets
+.env
+
+# OS noise
+.DS_Store
